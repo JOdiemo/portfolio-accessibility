@@ -540,6 +540,10 @@ input[type=email] {
   visibility: visible;
 }
 
+.formlabels {
+  display: none;
+}
+
 /* -------media----------- */
 
 @media (min-width: 768px) {
