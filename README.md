@@ -1,40 +1,23 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Portfolio - Jorum Odiemo
 
-> Description the project.
+> Creating a skeleton mobile desktop version website of my portfolio
+> 
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
-
+- HTML & CSS3
+- Flexbox and Grid
+- Ensure the accessability features are up to standard with the conventional website designs
+- Created a feature branch "accessability-corrections" for this purpose
+- 
 ## Live Demo (if available)
 
+
 [Live Demo Link](https://livedemo.com)
-
-
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
+https://rawcdn.githack.com/JOdiemo/portfolio-accessibility/b0b2b8630ef2a30c42fbb339d520ee8e92435312/index.html
 
 
 
