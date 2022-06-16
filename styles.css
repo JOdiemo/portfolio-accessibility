@@ -13,6 +13,10 @@ body {
   width: 100%;
 }
 
+.firstlevelheader {
+  font-family: "Poppins", sans-serif;
+}
+
 .Top {
   width: 100%;
   display: flex;
@@ -391,7 +395,7 @@ button:enabled {
   font-size: 20px;
   line-height: 28px;
   text-align: center;
-  color: #ebebff;
+  color: black;
   align-items: center;
   text-justify: center;
 }
@@ -428,7 +432,7 @@ button:enabled {
 }
 
 .mainheader {
-  color: white;
+  color: black;
   font-family: 'Poppins', sans-serif;
   font-style: normal;
   font-weight: 700;
@@ -443,7 +447,6 @@ button:enabled {
 .form-input {
   display: flex;
   flex-direction: column;
- 
 }
 
 input[type=text] {
